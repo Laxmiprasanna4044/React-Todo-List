@@ -1,20 +1,17 @@
-# React Clock App ⏰
-This is a simple digital clock built using React.
+# React To-Do List App
+A simple and efficient To-Do List application built using React.
+This project helps users manage daily tasks with ease.
 
 ## Features
--Live time update every second
--Show/Hide clock
--Clean UI
+-Add new tasks
+-Mark tasks as completed
+-Delete tasks
+-Data persistence using Local Storage
 
-## Tech Stack
--React
+## TechStack
+-React (Functional Components)
 -JavaScript
--CSS
-
-## Learning
--useState
--useEffect
--setInterval & cleanup
+-Css
 
 ## Author
-Laxmiprasanna Adepu
+Laxmiprasanna Adepu.
